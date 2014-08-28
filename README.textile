@@ -10,9 +10,12 @@ Use this example application as a starter app for your own web applications. The
 
 * "rails-devise":https://github.com/RailsApps/rails-devise
 
-For a complete explanation of the code, see the tutorials:
+For a complete explanation of the code, see the tutorial:
 
-* "Rails Role-Based Authorization":http://railsapps.github.io/rails-devise-roles/
+* "Role-Based Authorization Tutorial":http://railsapps.github.io/rails-devise-roles/
+
+Other tutorials may be helpful:
+
 * "Rails and Devise":http://railsapps.github.io/rails-devise/
 * "RSpec Tutorial":http://railsapps.github.io/rspec.html
 
