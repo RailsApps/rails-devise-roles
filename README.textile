@@ -6,9 +6,7 @@ Rails 4.1 example application that provides user management, authentication, and
 * "Devise":https://github.com/plataformatec/devise for user management and authentication
 * "Bootstrap":http://getbootstrap.com/ or "Foundation":http://foundation.zurb.com/ front-end frameworks
 
-Use this example application as a starter app for your own web applications. The application is based on a simpler example application:
-
-* "rails-devise":https://github.com/RailsApps/rails-devise
+Use this example application as a starter app for your own web applications.
 
 For a complete explanation of the code, see the tutorial:
 
