@@ -1,7 +1,4 @@
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Devise Roles)! Rails Devise Roles
-
-"!https://www.herokucdn.com/deploy/button.png(Deploy to Heroku)!":https://heroku.com/deploy
-
 Rails 4.2 example application that provides user management, authentication, and simple role-based authorization. The application uses:
 
 * "Active Record Enum":http://api.rubyonrails.org/classes/ActiveRecord/Enum.html for roles
@@ -500,15 +497,9 @@ h2. Deploy to Heroku
 
 Heroku provides low cost, easily configured Rails application hosting.
 
-h4. One Click Deployment
-
-For one-click deployment, click the button to deploy to Heroku:
-
-"!https://www.herokucdn.com/deploy/button.png(Deploy to Heroku)!":https://heroku.com/deploy
-
 h4. From the Command Line
 
-Alternatively, you can deploy from the command line.
+You can deploy from the command line.
 
 <pre>
 $ git push origin master
