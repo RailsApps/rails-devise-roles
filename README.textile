@@ -1,4 +1,5 @@
 h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Devise Roles)! Rails Devise Roles
+
 Rails 4.2 example application that provides user management, authentication, and simple role-based authorization. The application uses:
 
 * "Active Record Enum":http://api.rubyonrails.org/classes/ActiveRecord/Enum.html for roles
